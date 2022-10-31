@@ -7,6 +7,7 @@ from forms import CancionForm,AlbumForm
 import logging 
 
 
+#Aplicacion
 app=Flask(__name__)
 
 #Configuracion de la base de datos
